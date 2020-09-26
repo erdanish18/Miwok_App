@@ -16,7 +16,7 @@
         <activity android:name=".FamilyActivity"
             android:label="@string/category_family" />
         <activity android:name=".NumbersActivity"
-            android:label="@string/category_numbers"/> // label for Getting the heading at the top of Numbers Page
+            android:label="@string/category_numbers"/>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
